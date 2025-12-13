@@ -1,0 +1,3980 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2025-12-10T11:57:14Z",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "@id": "relation/10930520",
+                "addr:city": "Bandung",
+                "addr:country": "ID",
+                "addr:housenumber": "152",
+                "addr:street": "Jalan Kebon Jati",
+                "amenity": "hospital",
+                "building": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Kebon Jati",
+                "operator:type": "private",
+                "short_name": "RS Kebon Jati",
+                "type": "multipolygon",
+                "website": "https://www.rskebonjati.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5963918, -6.9159394
+                ]
+            },
+            "id": "relation/10930520"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/32520384",
+                "amenity": "hospital",
+                "created_by": "JOSM",
+                "name": "RS ZR Tedja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6201443, -6.9057428
+                ]
+            },
+            "id": "node/32520384"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/100262052",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Pasteur Nomor 38",
+                "addr:housenumber": "38",
+                "addr:postcode": "40161",
+                "addr:street": "Jl. Pasteur",
+                "amenity": "hospital",
+                "contact:phone": "+62 22 2034 953, +62 22 2034 955",
+                "description": "RSUD Hasan Sadikin merupakan salah satu Rumah Sakit Rujukan COVID-19 yang ada di Kota Bandung",
+                "health_amenity:type": "dialysis;emergency_department;imaging_equipment;intensive_care_unit;laboratory;mri;operating_theater;ultrasound;x_ray",
+                "healthcare": "hospital",
+                "healthcare:speciality": "abortion;allergology;anatomy;applied_kinesiology;ayurveda;biological_haematology;endocrinology;fertility;gastroenterological_surgery;general",
+                "insurance:health": "private;public",
+                "name": "RSUD Hasan Sadikin",
+                "opening_hours": "24/7",
+                "operator:type": "government",
+                "url": "http://web.rshs.or.id/",
+                "wheelchair": "yes",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.598385, -6.8980466
+                ]
+            },
+            "id": "way/100262052"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/119419634",
+                "amenity": "hospital",
+                "building": "yes",
+                "building:levels": "3",
+                "building:roof": "tile",
+                "building:structure": "confined_masonry",
+                "building:use": "medical",
+                "building:walls": "brick",
+                "healthcare": "hospital",
+                "name": "RSGM Unpad",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6193435, -6.8905035
+                ]
+            },
+            "id": "way/119419634"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/120340028",
+                "addr:city": "Bandung",
+                "addr:housenumber": "161",
+                "addr:postcode": "40131",
+                "addr:street": "Jalan Cihampelas",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "name": "Rumah Sakit Advent",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6034283, -6.8923921
+                ]
+            },
+            "id": "way/120340028"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/152948636",
+                "amenity": "clinic",
+                "building": "yes",
+                "building:colour": "grey",
+                "building:levels": "2",
+                "building:part": "yes",
+                "emergency": "no",
+                "healthcare": "clinic",
+                "name": "Poliklinik",
+                "opening_hours": "Mo-Th 07:30-15:30; Fr 07:30-16:00",
+                "roof:colour": "grey",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5930256, -6.8619781
+                ]
+            },
+            "id": "way/152948636"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/154066196",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Dr. Djunjunan 107, Pasteur Bandung, West Java, Indonesia",
+                "amenity": "hospital",
+                "building": "yes",
+                "name": "RS Hermina Pasteur",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5887614, -6.8959198
+                ]
+            },
+            "id": "way/154066196"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/155091969",
+                "amenity": "puskesmas",
+                "emergency": "no",
+                "name": "Puskesmas Sukasari",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.582344, -6.8682032
+                ]
+            },
+            "id": "way/155091969"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/174262622",
+                "amenity": "hospital",
+                "building": "yes",
+                "name": "Rumah Sakit Pendidikan Universitas Padjadjaran",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5989507, -6.8955885
+                ]
+            },
+            "id": "way/174262622"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/175011356",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Soekarno-Hatta Nomor 644",
+                "addr:housenumber": "644",
+                "addr:street": "Jalan Soekarno-Hatta",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Al Islam",
+                "operator:type": "private",
+                "phone": "+62 (022) 7510583",
+                "website": "https://www.rsalislam.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6688087, -6.9400141
+                ]
+            },
+            "id": "way/175011356"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/184170823",
+                "amenity": "hospital",
+                "name": "RSUD Cicalengka",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.8419335, -6.982254
+                ]
+            },
+            "id": "way/184170823"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/184172332",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.8387431, -6.9863336
+                ]
+            },
+            "id": "way/184172332"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/186989911",
+                "amenity": "doctors",
+                "name": "Yayasan Paru Paru",
+                "opening_hours": "Mo-Fr 08:30-20:00",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6405705, -6.8937908
+                ]
+            },
+            "id": "way/186989911"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/304178727",
+                "addr:full": "Jl. Majalaya 2",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:type": "government",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6634859, -6.9134046
+                ]
+            },
+            "id": "way/304178727"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/319706077",
+                "amenity": "hospital",
+                "created_by": "Potlatch 0.10f",
+                "name": "RSAU Dr Salamun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6048127, -6.8643151
+                ]
+            },
+            "id": "node/319706077"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/376352126",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Jaya Sentosa",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.617792, -6.9180888
+                ]
+            },
+            "id": "way/376352126"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/380223312",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Ir. H. Juanda Nomor 100",
+                "addr:housenumber": "100",
+                "addr:street": "Jalan Ir. Haji Juanda",
+                "amenity": "hospital",
+                "building:floor": "ceramics",
+                "building:material": "brick",
+                "building:structure": "reinforced_masonry",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Santo Borromeus",
+                "operator:type": "private",
+                "website": "https://rsborromeus.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6136677, -6.8939556
+                ]
+            },
+            "id": "way/380223312"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/381032768",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Pratama Advent Taman Sari",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6086715, -6.9017103
+                ]
+            },
+            "id": "way/381032768"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/381655153",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Pramita Lab Pajajaran",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5936187, -6.9066536
+                ]
+            },
+            "id": "way/381655153"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/382982561",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Rancabolang No. 21",
+                "addr:housenumber": "21",
+                "addr:postcode": "40286",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Humana Prima",
+                "operator:type": "private",
+                "phone": "+62 (022) 7563701",
+                "source": "survey",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6642366, -6.9408795
+                ]
+            },
+            "id": "way/382982561"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/383052810",
+                "addr:city": "Bandung",
+                "addr:housenumber": "15",
+                "addr:postcode": "40286",
+                "addr:street": "Tata Surya",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Tata Sehat",
+                "opening_hours": "24/7",
+                "phone": "+62 (022) 7562818",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6671494, -6.9439094
+                ]
+            },
+            "id": "way/383052810"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/408545692",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Zona Sehat",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.592489, -6.9731746
+                ]
+            },
+            "id": "way/408545692"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/409384280",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Yusuf Balai Pengobatan",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6208659, -6.9207986
+                ]
+            },
+            "id": "way/409384280"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/413356352",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Werisa Klinik Cilember",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5570862, -6.8894594
+                ]
+            },
+            "id": "way/413356352"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/479732486",
+                "addr:city": "Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat",
+                "addr:postcode": "40141",
+                "addr:street": "Jalan Bukit Jarian",
+                "amenity": "hospital",
+                "name": "RS Paru dr Rotinsulu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6064864, -6.8777867
+                ]
+            },
+            "id": "node/479732486"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/512276729",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Tivaza Klinik Utama Kulit Bandung",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6022683, -6.9042531
+                ]
+            },
+            "id": "way/512276729"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/512353823",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Tanaya",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6111651, -6.900088
+                ]
+            },
+            "id": "way/512353823"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/512891584",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "ZAP Clinic Bandung",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6273263, -6.9139031
+                ]
+            },
+            "id": "way/512891584"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/513259644",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "optometrist",
+                "name": "Klinik Utama Bandung Eye Center",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.613924, -6.9169134
+                ]
+            },
+            "id": "way/513259644"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/513433286",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Brawijaya Clinic",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6203358, -6.9318987
+                ]
+            },
+            "id": "way/513433286"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/513439028",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Puskesmas Talaga Bodas",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6225605, -6.9282313
+                ]
+            },
+            "id": "way/513439028"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/513891367",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "name": "Puskesmas Ibrahim Adjie Bandung",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6438586, -6.9189316
+                ]
+            },
+            "id": "way/513891367"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/514986899",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Laboratorium Klinik Pramita Mochammad Toha",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.607895, -6.94314
+                ]
+            },
+            "id": "way/514986899"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/515890184",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "name": "UPTD Puskesmas Ledeng",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5946274, -6.8581465
+                ]
+            },
+            "id": "way/515890184"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/518520738",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Posyandu Cidadap Girang Baru",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5972925, -6.8548722
+                ]
+            },
+            "id": "way/518520738"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/520029160",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "healthcare:speciality": "general",
+                "name": "Puskesmas Cipaku",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:type": "public",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6005058, -6.8623457
+                ]
+            },
+            "id": "way/520029160"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/521278268",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Bidan Indarwati",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5873579, -6.8626442
+                ]
+            },
+            "id": "way/521278268"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/530038644",
+                "addr:full": "Jl. Purnawarman, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+                "amenity": "doctors",
+                "building": "doctors",
+                "healthcare": "doctor",
+                "name": "Dr. Elise J. Knoch Sp. OG",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6096094, -6.9059501
+                ]
+            },
+            "id": "way/530038644"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/530966011",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Griya Antapani",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6605144, -6.9166575
+                ]
+            },
+            "id": "way/530966011"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/536382468",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Pratama Widya Bhakti Inti",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6076628, -6.9379364
+                ]
+            },
+            "id": "way/536382468"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/546483829",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Pratama An Nur",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5972922, -6.8774641
+                ]
+            },
+            "id": "way/546483829"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/547922933",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Pratama Yakes Telkom Bandung",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6199868, -6.9000295
+                ]
+            },
+            "id": "way/547922933"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/548097124",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Bio Fit Laboratorium Klinik Utama",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6264459, -6.901885
+                ]
+            },
+            "id": "way/548097124"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/551629721",
+                "addr:city": "Cihapit, Bandung Wetan, Bandung, Jawa Barat",
+                "addr:postcode": "40114",
+                "addr:street": "Jalan Salam",
+                "addr:unit": "27",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "description": "Puskesmas (Pusat Kesehatan Masyarakat) Salam Dinas Kesehatan Kota Bandung",
+                "healthcare": "puskesmas",
+                "healthcare:speciality": "general",
+                "name": "Puskesmas Salam",
+                "opening_hours": "Mo-Fr 08:00-17:00",
+                "operator": "Local Government (Dinas Kesehatan Pemerintah Kota Bandung)",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6299815, -6.9099078
+                ]
+            },
+            "id": "way/551629721"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/570516124",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Seno Medika Klinik",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6457938, -6.9068437
+                ]
+            },
+            "id": "way/570516124"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/613260123",
+                "access:roof": "no",
+                "addr:full": "Jalan Raya Dayeuhkolot",
+                "amenity": "puskesmas",
+                "building": "puskesmas",
+                "building:condition": "good",
+                "building:levels": "2",
+                "building:material": "concrete",
+                "building:roof": "concrete",
+                "building:structure": "confined_masonry",
+                "capacity:persons": "50-100",
+                "name": "Puskesmas Dayeuhkolot",
+                "source": "survey",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6273487, -6.9896827
+                ]
+            },
+            "id": "way/613260123"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/616564803",
+                "access:roof": "yes",
+                "addr:full": "Jalan Raya Dayeuhkolot 327",
+                "amenity": "doctors",
+                "building": "yes",
+                "building:condition": "good",
+                "building:levels": "2",
+                "building:material": "concrete",
+                "building:roof": "concrete",
+                "building:structure": "confined_masonry",
+                "capacity:persons": "<50",
+                "name": "Dokter Umum",
+                "source": "survey",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6271159, -6.989277
+                ]
+            },
+            "id": "way/616564803"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/616564809",
+                "access:roof": "yes",
+                "addr:full": "Jalan Andir Katapang",
+                "amenity": "clinic",
+                "building": "yes",
+                "building:condition": "good",
+                "building:levels": "2",
+                "building:material": "concrete",
+                "building:roof": "concrete",
+                "building:structure": "confined_masonry",
+                "capacity:persons": "50-100",
+                "name": "posyandu mutiara",
+                "source": "survey",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6231119, -6.9895412
+                ]
+            },
+            "id": "way/616564809"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/631868498",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.577392, -6.9216147
+                ]
+            },
+            "id": "way/631868498"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/631868561",
+                "addr:city": "Bandung",
+                "addr:postcode": "40211",
+                "addr:street": "Jl. Nana Rohana No. 37",
+                "amenity": "hospital",
+                "email": "ku.primecenter@gmail.com",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "healthcare:speciality": "ophthalmology;neurology;internal;otolaryngology",
+                "name": "Klinik Utama Priangan Medical & Eye Center",
+                "phone": "022-6046467",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5773698, -6.9217727
+                ]
+            },
+            "id": "way/631868561"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/632219902",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Pengobatan Tradisional Ny Djamilah Najmuddin",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5853899, -6.9234144
+                ]
+            },
+            "id": "way/632219902"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/632246851",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Laboratorium Prodia",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.606762, -6.9410209
+                ]
+            },
+            "id": "way/632246851"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/632545353",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Pratama Sahabat Ibu Dan Anak",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6029085, -6.929379
+                ]
+            },
+            "id": "way/632545353"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/632659771",
+                "addr:city": "Bandung",
+                "addr:housenumber": "147",
+                "addr:postcode": "40265",
+                "addr:street": "Jalan Buah Batu",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "healthcare:speciality": "ophthalmology",
+                "name": "Bandung Eye Center",
+                "opening_hours": "24/7",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6240222, -6.9375783
+                ]
+            },
+            "id": "way/632659771"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/632674584",
+                "alt_name": "Bandung Heart Clinic",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "healthcare:speciality": "cardiology",
+                "name": "Klinik Khusus Jantung",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6283799, -6.942682
+                ]
+            },
+            "id": "way/632674584"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/632680662",
+                "amenity": "hospital",
+                "building": "yes",
+                "name": "Puskesmas Cijagra Baru",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6265911, -6.9454296
+                ]
+            },
+            "id": "way/632680662"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633172710",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "name": "Puskesmas Kopo",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5892487, -6.9465055
+                ]
+            },
+            "id": "way/633172710"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633173165",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Parahita Diagnostic Center",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5887641, -6.947386
+                ]
+            },
+            "id": "way/633173165"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633176605",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Bekam Ruqyah Center BRC",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5953225, -6.94803
+                ]
+            },
+            "id": "way/633176605"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633176682",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Holistik Estetika",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605978, -6.9518729
+                ]
+            },
+            "id": "way/633176682"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633226543",
+                "amenity": "hospital",
+                "building": "yes",
+                "name": "Rumah Bersalin Ibu Mairah",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5946745, -6.9362904
+                ]
+            },
+            "id": "way/633226543"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633491798",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Utama Barokah",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6383762, -6.9515654
+                ]
+            },
+            "id": "way/633491798"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633533539",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "name": "Puskesmas Gumuruh",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6358316, -6.9323074
+                ]
+            },
+            "id": "way/633533539"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633661484",
+                "amenity": "hospital",
+                "building": "yes",
+                "healthcare": "hospital",
+                "name": "RSIA Harapan Bunda",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6621166, -6.9559488
+                ]
+            },
+            "id": "way/633661484"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/633737623",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Khitanan Paramedika",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5773968, -6.9333909
+                ]
+            },
+            "id": "way/633737623"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/634313204",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Pratama Gempol",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5632006, -6.9324804
+                ]
+            },
+            "id": "way/634313204"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/634501013",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "layer": "1",
+                "name": "Puskesmas Cijerah",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.566683, -6.9215509
+                ]
+            },
+            "id": "way/634501013"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/635914300",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Citarip",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.588387, -6.9383268
+                ]
+            },
+            "id": "way/635914300"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/636423360",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "London Beauty Center",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6270678, -6.92461
+                ]
+            },
+            "id": "way/636423360"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/638310877",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "name": "Puskesmas Ujungberung Indah",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6990566, -6.9115426
+                ]
+            },
+            "id": "way/638310877"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/638394868",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Sukawarna",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5793322, -6.8857624
+                ]
+            },
+            "id": "way/638394868"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/638462640",
+                "amenity": "hospital",
+                "building": "yes",
+                "name": "RS Jiwa Hurip Waluya",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5948366, -6.8841386
+                ]
+            },
+            "id": "way/638462640"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/638469075",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Bidan Tini Hartini",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5922221, -6.8883955
+                ]
+            },
+            "id": "way/638469075"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/639146425",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Famili Sehat",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6471653, -6.9220994
+                ]
+            },
+            "id": "way/639146425"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/639216551",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Yaska Medika",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6507072, -6.929121
+                ]
+            },
+            "id": "way/639216551"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/639868885",
+                "addr:street": "Jalan Awibitung",
+                "amenity": "hospital",
+                "building": "yes",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "healthcare:speciality": "maternity",
+                "name": "RS Ibu & Anak Al-Islam",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6388359, -6.909233
+                ]
+            },
+            "id": "way/639868885"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/640438521",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Padasuka",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6532155, -6.9030721
+                ]
+            },
+            "id": "way/640438521"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/640450030",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Utama Medika Antapani",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6519595, -6.9137005
+                ]
+            },
+            "id": "way/640450030"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/713877871",
+                "addr:city": "Kab. Bandung",
+                "addr:postcode": "40381",
+                "addr:street": "Kp. Babakan Rt. 02 Rw. 02 Desa Babakan Kec. Ciparay",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "healthcare:speciality": "general",
+                "name": "Poskesdes Babakan",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6921827, -7.0783226
+                ]
+            },
+            "id": "way/713877871"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/730875525",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6964679, -6.9051365
+                ]
+            },
+            "id": "way/730875525"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782865909",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan A.H. Nasution Km 7 No.8 Antapani Bandung",
+                "amenity": "hospital",
+                "building": "hospital",
+                "name": "Rumah Sakit Hermina",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6667357, -6.904914
+                ]
+            },
+            "id": "way/782865909"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782895616",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan L. L. R.E. Martadinata No.9, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Sariningsih",
+                "operator:type": "government",
+                "website": "http://rssariningsih.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6111269, -6.9065652
+                ]
+            },
+            "id": "way/782895616"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782902640",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Gatot Subroto No.517, Sukapura, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40285",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RSU Pindad",
+                "operator:type": "private",
+                "website": "https://rsupindad.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6467023, -6.9399478
+                ]
+            },
+            "id": "way/782902640"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782913210",
+                "addr:full": "Jalan Rumah Sakit No.22 Ujung Berung, Pakemitan, Cinambo, Kota Bandung, Jawa Barat 45474",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Umum Daerah Kota Bandung",
+                "operator:type": "government",
+                "website": "http://rsudkotabandung.web.id/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6987462, -6.9156758
+                ]
+            },
+            "id": "way/782913210"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782961946",
+                "addr:full": "Jalan Cipaku Nomor 8 Paseh, Kabupaten Bandung",
+                "amenity": "hospital",
+                "name": "RSUD Majalaya",
+                "operator:type": "government",
+                "website": "http://rsudmajalaya.bandungkab.go.id/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7721157, -7.0485426
+                ]
+            },
+            "id": "way/782961946"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782967855",
+                "addr:city": "Kabupaten Bandung",
+                "addr:full": "Jalan Alun-alun Utara No. 1 Desa Pamekaran Kecamatan Soreang",
+                "addr:postcode": "40912",
+                "amenity": "hospital",
+                "building": "yes",
+                "contact:email": "rsudsoreang@bandungkab.go.id",
+                "contact:fax": "5896592",
+                "contact:phone": "+62 22 5891 355, +62 22 5896 590, +62 22 5896 591",
+                "contact:website": "www.bandungkab.go.id",
+                "emergency": "no",
+                "healthcare": "hospital",
+                "name": "RSUD Soreang",
+                "operational_status": "closed",
+                "operator:type": "government",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5169954, -7.026154
+                ]
+            },
+            "id": "way/782967855"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782971344",
+                "addr:city": "Kabupaten Bandung",
+                "addr:full": "Jalan Raya Dayeuhkolot No.325, Citeureup, Kec. Dayeuhkolot, Bandung, Jawa Barat 40257",
+                "amenity": "hospital",
+                "building": "hospital",
+                "name": "RS Bina Sehat",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.624763, -6.9858775
+                ]
+            },
+            "id": "way/782971344"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782977309",
+                "addr:city": "Kota Bandung",
+                "addr:full": "Jalan Halmahera No.2, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Poliklinik Halmahera",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6159914, -6.9074709
+                ]
+            },
+            "id": "way/782977309"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782977315",
+                "addr:city": "Kota Bandung",
+                "addr:full": "Jalan Halmahera No.8, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Klinik Utama Perisai Husada",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6158818, -6.9071124
+                ]
+            },
+            "id": "way/782977315"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/782982595",
+                "addr:city": "Bandung, Jawa Barat",
+                "addr:full": "Jalan Kebon Jati Nomor 38",
+                "addr:housenumber": "38",
+                "addr:postcode": "40181",
+                "addr:street": "Jalan Kebon Jati",
+                "amenity": "hospital",
+                "capacity:persons": "400",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Santosa",
+                "name:ja": "サントーサ病院バンドン中央",
+                "operator:type": "private",
+                "website": "https://shbc.santosa-hospital.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6004248, -6.9155012
+                ]
+            },
+            "id": "way/782982595"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783006332",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Kopo Cirangrang Nomor 161",
+                "amenity": "hospital",
+                "capacity:persons": "345",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Immanuel",
+                "name:en": "Imanuel Hospital",
+                "operator:type": "private",
+                "website": "https://www.rsimmanuel.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5964984, -6.9356594
+                ]
+            },
+            "id": "way/783006332"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783010930",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Raya Cileunyi Nomor 1",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RS Annisa Medical Center",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7558294, -6.9406251
+                ]
+            },
+            "id": "way/783010930"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783014197",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Kiastramanggala, Baleendah",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "internet_access": "wlan",
+                "name": "RSUD Welas Asih",
+                "old:name": "RS Al-Ihsan Baleendah",
+                "operator:type": "government",
+                "website": "http://rsudalihsan.jabarprov.go.id/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6234209, -7.0083223
+                ]
+            },
+            "id": "way/783014197"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783772649",
+                "addr:full": "Jalan KH. Ahmad Dahlan No. 53, Bandung",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RS Muhammadiyah Bandung",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6234785, -6.9333949
+                ]
+            },
+            "id": "way/783772649"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783785233",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Rajawali Barat No.38, Maleber, Kec. Andir, Kota Bandung, Jawa Barat 40184",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RS Rajawali",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5731032, -6.9126413
+                ]
+            },
+            "id": "way/783785233"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783786388",
+                "addr:street": "Jalan Moch. Toha Nomor 369, Regol, Kota Bandung",
+                "amenity": "hospital",
+                "name": "RS Bhayangkara TK. II Sartika Asih Bandung",
+                "operator:type": "private",
+                "website": "https://rsbsabandung.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6126455, -6.9567353
+                ]
+            },
+            "id": "way/783786388"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783796267",
+                "addr:city": "Bandung",
+                "addr:full": "LLRE Martadinata St Nomor 39",
+                "amenity": "hospital",
+                "building": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Ibu Anak Limijati",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6136046, -6.9060723
+                ]
+            },
+            "id": "way/783796267"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783806886",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Cicendo Nomor 4",
+                "addr:housenumber": "#4",
+                "addr:street": "Jalan Cicendo , Sumurbandung",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Mata Cicendo",
+                "name:en": "Cicendo Eye Hospital",
+                "name:it": "Cicendo Eye",
+                "operator:type": "government",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.604699, -6.909878
+                ]
+            },
+            "id": "way/783806886"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783813886",
+                "addr:full": "Jalan Ciumbuleuit No.203, Ciumbuleuit, Kec. Cidadap, Kota Bandung",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "healthcare:speciality": "general;emergency",
+                "name": "RSAU Dr. M. Salamun",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6047419, -6.8644527
+                ]
+            },
+            "id": "way/783813886"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783819162",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Kopo Cirangrang No.461 - 463",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Santosa Hospital",
+                "operator:type": "private",
+                "website": "https://shbk.santosa-hospital.com/index.php/en/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5864247, -6.9528495
+                ]
+            },
+            "id": "way/783819162"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/783834479",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Cikutra No. 7, Kota Bandung - Jawa Barat 40124",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RS Santo Yusup",
+                "operator:type": "private",
+                "website": "https://www.rssantoyusup.com/24-jam/instalasi-gawat-darurat/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6428973, -6.9066587
+                ]
+            },
+            "id": "way/783834479"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/784661444",
+                "addr:full": "Jalan Dr. Cipto no 1, Bandung",
+                "amenity": "hospital",
+                "building": "yes",
+                "healthcare": "hospital",
+                "name": "RS Melinda 2",
+                "operator:type": "private",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5982862, -6.906196
+                ]
+            },
+            "id": "way/784661444"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/784773788",
+                "addr:city": "Bandung",
+                "addr:full": "Jalan Terusan Jakarta No.15 - 17, Babakan Surabaya, Kec. Kiaracondong, Kota Bandung, Jawa Barat 40281",
+                "amenity": "hospital",
+                "building": "hospital",
+                "name": "RSIA Graha Bunda",
+                "operator:type": "private",
+                "website": "https://rsia-grhabunda.com/",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6455346, -6.9130601
+                ]
+            },
+            "id": "way/784773788"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/785085506",
+                "addr:city": "Kota Bandung",
+                "addr:full": "Jalan L. L. R.E. Martadinata No.28, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+                "amenity": "hospital",
+                "building": "hospital",
+                "healthcare": "hospital",
+                "name": "RSKB Halmahera Siaga",
+                "operator:type": "government",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6156937, -6.9066725
+                ]
+            },
+            "id": "way/785085506"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/798528888",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Bona Mitra Keluarga Baleendah",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6256129, -7.0058319
+                ]
+            },
+            "id": "way/798528888"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/803512881",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "healthcare:speciality": "general;stomatology",
+                "name": "Telkom Medika",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6304403, -6.9776358
+                ]
+            },
+            "id": "way/803512881"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/814664484",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Klink DR. Ramadhan",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.4666919, -7.084739
+                ]
+            },
+            "id": "way/814664484"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/854591367",
+                "amenity": "hospital",
+                "emergency": "no",
+                "healthcare": "hospital",
+                "healthcare:speciality": "maternity;bidan",
+                "name": "Bidan Pipih",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5743695, -7.052726
+                ]
+            },
+            "id": "way/854591367"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/856605945",
+                "amenity": "puskesmas",
+                "building": "yes",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Cangkuang",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5904877, -6.9729181
+                ]
+            },
+            "id": "way/856605945"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/859081134",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Pratama Sehat Sejahtera",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5629809, -6.9636367
+                ]
+            },
+            "id": "way/859081134"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/909004989",
+                "amenity": "hospital",
+                "building": "yes",
+                "healthcare": "hospital",
+                "name": "RS Unggul Karsa Medika",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5489204, -6.9703071
+                ]
+            },
+            "id": "way/909004989"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/909405685",
+                "amenity": "hospital",
+                "building": "yes",
+                "healthcare": "hospital",
+                "name": "RS Lanud Sulaiman",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.564149, -6.9835335
+                ]
+            },
+            "id": "way/909405685"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1052970145",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Klinik Utama CMI",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6190888, -6.8827164
+                ]
+            },
+            "id": "way/1052970145"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1052970146",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6189722, -6.8827385
+                ]
+            },
+            "id": "way/1052970146"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1081029506",
+                "addr:city": "Bandung",
+                "addr:postcode": "40624",
+                "addr:street": "Jalan Cikoneng",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "healthcare:speciality": "psychiatry",
+                "name": "Bihara Bihari",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7366177, -6.9162931
+                ]
+            },
+            "id": "way/1081029506"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1151993593",
+                "addr:city": "Bandung Regency",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "name": "RSUD Oto Iskandar Di Nata",
+                "operational_status": "operational",
+                "operator:type": "government",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5438123, -7.0281115
+                ]
+            },
+            "id": "way/1151993593"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1152296825",
+                "amenity": "hospital",
+                "barrier": "wall",
+                "healthcare": "hospital",
+                "height": "2",
+                "material": "brick",
+                "name": "Mayapada Hospital",
+                "operator": "Sejahteraraya Anugerahjaya",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:cryptocurrencies": "no",
+                "payment:debit_cards": "yes",
+                "payment:electronic_purses": "yes",
+                "wall": "brick",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6349541, -6.948671
+                ]
+            },
+            "id": "way/1152296825"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1193615120",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Oetomo Hospital",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6363486, -6.9749951
+                ]
+            },
+            "id": "way/1193615120"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1198173568",
+                "addr:housenumber": "116",
+                "addr:place": "Ruby Commercial",
+                "amenity": "doctors",
+                "building": "commercial",
+                "healthcare": "doctor",
+                "healthcare:speciality": "general",
+                "name": "Bandung Family Doctors",
+                "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 08:00-20:00",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.69463, -6.9583964
+                ]
+            },
+            "id": "way/1198173568"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1206655972",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RSUD Bandung Kiwari",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5918288, -6.9435191
+                ]
+            },
+            "id": "way/1206655972"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1293330082",
+                "addr:street": "Jalan Karapitan",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "N-Lab Klinik Keluarga",
+                "opening_hours": "24/7",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6158459, -6.9302117
+                ]
+            },
+            "id": "way/1293330082"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1293422276",
+                "amenity": "clinic",
+                "building": "yes",
+                "name": "Klinik Utama Oratio Fide",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5990214, -6.9062543
+                ]
+            },
+            "id": "way/1293422276"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1317910485",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Posyandu",
+                "operator:wikidata": "Q12506263",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6732637, -7.2112859
+                ]
+            },
+            "id": "way/1317910485"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1318028496",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Poskesdes Desa Resmitinggal",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6979166, -7.1545169
+                ]
+            },
+            "id": "way/1318028496"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1342948126",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RSGM Kota Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.614114, -6.9063359
+                ]
+            },
+            "id": "node/1342948126"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1381753529",
+                "amenity": "hospital",
+                "name": "Rumah Sakit Ginjal Nyonya Ra Habibie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6203433, -6.8853403
+                ]
+            },
+            "id": "node/1381753529"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1381753576",
+                "amenity": "puskesmas",
+                "name": "Puskesmas Dago",
+                "name:en": "Puskesmas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6185752, -6.8759742
+                ]
+            },
+            "id": "node/1381753576"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1382354192",
+                "addr:city": "Bandung",
+                "addr:street": "Jalan Naripan",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Murni Teguh",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6160284, -6.9204703
+                ]
+            },
+            "id": "way/1382354192"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1388222204",
+                "amenity": "puskesmas",
+                "name": "Puskesmas Cikutra Lama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6272402, -6.8913271
+                ]
+            },
+            "id": "node/1388222204"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1409709849",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "RS Melinda 1",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6032853, -6.9067149
+                ]
+            },
+            "id": "way/1409709849"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1414425498",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Netra Klinik Spesialis Mata",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6306854, -6.9084238
+                ]
+            },
+            "id": "way/1414425498"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1414563336",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Baleendah",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:type": "government",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6137355, -7.0067922
+                ]
+            },
+            "id": "way/1414563336"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1414563337",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Banjaran Kota",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:type": "government",
+                "operator:wikidata": "Q12490745",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5897942, -7.046118
+                ]
+            },
+            "id": "way/1414563337"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/1436914493",
+                "amenity": "clinic",
+                "building": "yes",
+                "healthcare": "clinic",
+                "name": "Posyandu Merak",
+                "operator": "Posyandu",
+                "operator:wikidata": "Q12506263",
+                "@geometry": "center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6701313, -6.9251536
+                ]
+            },
+            "id": "way/1436914493"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1919646276",
+                "addr:city": "Bandung",
+                "addr:housenumber": "99",
+                "addr:postcode": "40251",
+                "addr:street": "Jalan Pasundan",
+                "amenity": "puskesmas",
+                "emergency": "no",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Pasundan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6089534, -6.9273603
+                ]
+            },
+            "id": "node/1919646276"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1930140081",
+                "amenity": "hospital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5961352, -6.9004583
+                ]
+            },
+            "id": "node/1930140081"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1957913105",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Bungsu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6134282, -6.918536
+                ]
+            },
+            "id": "node/1957913105"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2133710945",
+                "amenity": "hospital",
+                "name": "Rumah Sakit Jiwa Hurip Waluya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5941316, -6.8835946
+                ]
+            },
+            "id": "node/2133710945"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2133741445",
+                "amenity": "hospital",
+                "name": "Rumah Sakit Ginjal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6200766, -6.8852642
+                ]
+            },
+            "id": "node/2133741445"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2133758689",
+                "amenity": "hospital",
+                "name": "Rumah Sakit Sukapura",
+                "name:en": "Sukapura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6567933, -6.9361248
+                ]
+            },
+            "id": "node/2133758689"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2134510103",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Astana Anyar",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:type": "government",
+                "operator:wikidata": "Q12490745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6004821, -6.9293073
+                ]
+            },
+            "id": "node/2134510103"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2456837021",
+                "amenity": "puskesmas",
+                "name": "Puskesmas Pangalengan",
+                "operator:type": "government"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5710694, -7.1765292
+                ]
+            },
+            "id": "node/2456837021"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3062139312",
+                "amenity": "puskesmas",
+                "name": "Puskesmas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6072151, -6.8970637
+                ]
+            },
+            "id": "node/3062139312"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3206494506",
+                "amenity": "puskesmas",
+                "emergency": "yes",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Nagreg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.8851036, -7.0189556
+                ]
+            },
+            "id": "node/3206494506"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3807746629",
+                "amenity": "clinic",
+                "name": "Klinik Abinaya",
+                "name:en": "Abinaya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6207149, -6.8684168
+                ]
+            },
+            "id": "node/3807746629"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3834119157",
+                "amenity": "puskesmas",
+                "emergency": "no",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Bojongsoang",
+                "phone": "+62 22 154443",
+                "toilets:wheelchair": "no",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6354167, -6.9694356
+                ]
+            },
+            "id": "node/3834119157"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4143009216",
+                "addr:street": "Jalan Terusan Jakarta",
+                "amenity": "clinic",
+                "name": "BRATACO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6442248, -6.9138207
+                ]
+            },
+            "id": "node/4143009216"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4183062790",
+                "addr:housenumber": "135",
+                "addr:street": "Jalan R.E. Martadinata",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Laboratorium Klinik PRAMITA",
+                "opening_hours": "Mo-Su 06:00-21:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6245158, -6.9083821
+                ]
+            },
+            "id": "node/4183062790"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4191281538",
+                "amenity": "doctors",
+                "healthcare": "doctor",
+                "name": "UPT Layanan Kesehatan ITB – Bumi Medika Ganesa ITB",
+                "website": "https://yankes.itb.ac.id/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6114806, -6.8945081
+                ]
+            },
+            "id": "node/4191281538"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4327148989",
+                "addr:city": "Bandung",
+                "addr:housenumber": "1",
+                "addr:street": "Jl. Terusan Perintis, Sarijadi, Sukasari",
+                "amenity": "clinic",
+                "name": "Klinik Global medika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5748257, -6.8818506
+                ]
+            },
+            "id": "node/4327148989"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4327896045",
+                "addr:city": "Bandung, Jawa Barat",
+                "addr:housenumber": "81",
+                "addr:street": "Jalan Dadali , Garuda, Andir",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Garuda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5773781, -6.9113899
+                ]
+            },
+            "id": "node/4327896045"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4328207174",
+                "addr:city": "Bandung",
+                "addr:housenumber": "65",
+                "addr:street": "Jl. Surya Sumantri",
+                "amenity": "hospital",
+                "name": "Rumah Sakit Gigi dan Mulut Maranatha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5812491, -6.886821
+                ]
+            },
+            "id": "node/4328207174"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4368910171",
+                "amenity": "clinic",
+                "name": "Natasha Skin Care"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6278431, -6.9031498
+                ]
+            },
+            "id": "node/4368910171"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4369219426",
+                "amenity": "hospital",
+                "check_date": "2024-03-27",
+                "name": "ERHA Clinic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6209995, -6.9038215
+                ]
+            },
+            "id": "node/4369219426"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4370197110",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "AIRIN BEAUTY CARE",
+                "name:en": "Airin Beauty Care"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6585757, -6.9213387
+                ]
+            },
+            "id": "node/4370197110"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4447676790",
+                "amenity": "clinic",
+                "name": "Poliklinik Telkom University"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.629308, -6.9734164
+                ]
+            },
+            "id": "node/4447676790"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4991465023",
+                "addr:postcode": "40151",
+                "amenity": "hospital",
+                "name": "Rumah Bersalin Muhammadiyah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5766801, -6.8775282
+                ]
+            },
+            "id": "node/4991465023"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5141381724",
+                "amenity": "clinic",
+                "name": "klinik sukagalih"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5910247, -6.8922383
+                ]
+            },
+            "id": "node/5141381724"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5269471536",
+                "addr:city": "Bandung",
+                "addr:housenumber": "245",
+                "addr:postcode": "40264",
+                "addr:street": "Jalan Buah Batu",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Jaya Abadi",
+                "phone": "+62 22 7311012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6306917, -6.9450171
+                ]
+            },
+            "id": "node/5269471536"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5332573977",
+                "amenity": "puskesmas",
+                "name": "Puskesmas Sukajadi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5943825, -6.8922267
+                ]
+            },
+            "id": "node/5332573977"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5455661339",
+                "amenity": "puskesmas",
+                "name": "Puskesmas Karang Setra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5911581, -6.8773932
+                ]
+            },
+            "id": "node/5455661339"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5477099284",
+                "addr:city": "Bandung, Jawa Barat",
+                "addr:housenumber": "8",
+                "addr:postcode": "40228",
+                "addr:street": "Jalan Taman Kopo Indah 1 Block C",
+                "amenity": "hospital",
+                "name": "Klinik Kasih jaya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5735337, -6.9665111
+                ]
+            },
+            "id": "node/5477099284"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5810470853",
+                "amenity": "clinic",
+                "healthcare": "clinic;dentist;doctor;pharmacy",
+                "name": "Klinik Pratama Bhakti Kencana",
+                "operator": "Klinik Pratama Bhakti Kencana",
+                "source": "survey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7087704, -6.9203324
+                ]
+            },
+            "id": "node/5810470853"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6087147386",
+                "amenity": "hospital",
+                "healthcare": "hospital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6140117, -6.9201977
+                ]
+            },
+            "id": "node/6087147386"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6141666686",
+                "amenity": "puskesmas",
+                "name": "Puskesmas Sekeloa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6168415, -6.8896755
+                ]
+            },
+            "id": "node/6141666686"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6602504766",
+                "amenity": "clinic",
+                "name": "Biotest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6123773, -6.9200484
+                ]
+            },
+            "id": "node/6602504766"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6994358986",
+                "addr:full": "Jl. Cilengkrang I, Cisurupan, Kec. Cibiru, Kota Bandung, Jawa Barat 40614",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Kilink Perdita Bandung",
+                "operator:type": "public"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7102291, -6.9207341
+                ]
+            },
+            "id": "node/6994358986"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8308974555",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "poskesdes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.2822858, -7.1889194
+                ]
+            },
+            "id": "node/8308974555"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9285341418",
+                "amenity": "hospital",
+                "name": "Rumah Sakit Kartini Bandung"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6345985, -6.8972374
+                ]
+            },
+            "id": "node/9285341418"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9499882442",
+                "amenity": "clinic",
+                "branch": "Merpati",
+                "healthcare": "clinic",
+                "name": "Posyandu",
+                "operator": "Posyandu",
+                "operator:wikidata": "Q12506263",
+                "operator:wikipedia": "id:Pos Pelayanan Terpadu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5788234, -6.8774812
+                ]
+            },
+            "id": "node/9499882442"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9676725113",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Rizky Bersalin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6196519, -6.8886552
+                ]
+            },
+            "id": "node/9676725113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9803296366",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "UPT Puskesmas Cipamokolan",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6763636, -6.9470279
+                ]
+            },
+            "id": "node/9803296366"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9805796968",
+                "amenity": "doctors",
+                "name": "Dokter Juwita Ninda Suherman Sukarasa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5809916, -6.8785955
+                ]
+            },
+            "id": "node/9805796968"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9805977362",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Klinik Cijambe 24",
+                "opening_hours": "24/7",
+                "operator": "Dr Adib Gunawan",
+                "operator:type": "private"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6907945, -6.9089943
+                ]
+            },
+            "id": "node/9805977362"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9807650791",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Klinik Utama Elim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5971803, -6.9198677
+                ]
+            },
+            "id": "node/9807650791"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9807996981",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Pagarsih",
+                "operator": "Ministry of Health",
+                "operator:en": "Ministry of Health",
+                "operator:id": "Kementerian Kesehatan",
+                "operator:wikidata": "Q12490745"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5930739, -6.9227492
+                ]
+            },
+            "id": "node/9807996981"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9813577059",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Klinik Jasmine MQ Medika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6117787, -6.8867752
+                ]
+            },
+            "id": "node/9813577059"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9816118322",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Klinik Pratama Amanah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6775519, -6.9048642
+                ]
+            },
+            "id": "node/9816118322"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9816147357",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Klinik Mutiara Cikutra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.643322, -6.9003623
+                ]
+            },
+            "id": "node/9816147357"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9816158890",
+                "amenity": "clinic",
+                "healthcare": "birthing_centre",
+                "name": "Klinik Bidan Oon R. Herawan, M.Keb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.639416, -6.9032552
+                ]
+            },
+            "id": "node/9816158890"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9816252382",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Revital Clinic Progo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.618761, -6.9044846
+                ]
+            },
+            "id": "node/9816252382"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9816324219",
+                "amenity": "clinic",
+                "name": "Klinik Utama Bunda Nanda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7124259, -6.9297937
+                ]
+            },
+            "id": "node/9816324219"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9817166577",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Arcamanik"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6786845, -6.9145472
+                ]
+            },
+            "id": "node/9817166577"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9817265328",
+                "amenity": "doctors",
+                "healthcare": "doctor",
+                "name": "Dokter Nina T Irawati"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6336995, -6.8892418
+                ]
+            },
+            "id": "node/9817265328"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10153772895",
+                "addr:city": "Bandung",
+                "addr:housenumber": "57",
+                "addr:postcode": "40114",
+                "addr:street": "Jalan WR. Supratman",
+                "amenity": "hospital",
+                "email": "bprc@bebasnyeri.id",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "healthcare:speciality": "general;physiotherapy;acupuncture;pain_management;physiatry",
+                "name": "Klinik Utama Bandung Pain Rehab Center",
+                "operator": "PT Indonesia Bebas Nyeri",
+                "operator:type": "private",
+                "phone": "+62811384300",
+                "website": "https://bandungpainrehab.center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6271296, -6.9029104
+                ]
+            },
+            "id": "node/10153772895"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10765147001",
+                "addr:city": "Bandung",
+                "addr:postcode": "40211",
+                "addr:street": "Jl. Nana Rohana No.37",
+                "amenity": "hospital",
+                "email": "ku.primecenter@gmail.com",
+                "emergency": "yes",
+                "healthcare": "hospital",
+                "healthcare:speciality": "internal;ophthalmology;neurology;otolaryngology",
+                "name": "Klinik Utama Priangan Medical & Eye Center",
+                "phone": "022-6046467"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5773663, -6.9217294
+                ]
+            },
+            "id": "node/10765147001"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/11768257117",
+                "amenity": "doctors",
+                "healthcare": "doctor",
+                "healthcare:speciality": "general",
+                "name": "Klinik Al Latif",
+                "opening_hours": "Mo-Fr 16:00-20:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7124665, -7.0394915
+                ]
+            },
+            "id": "node/11768257117"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/11989416151",
+                "amenity": "clinic",
+                "name": "Clafidsya Aesthetic Clinic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6160722, -6.9296213
+                ]
+            },
+            "id": "node/11989416151"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/11990122200",
+                "amenity": "clinic",
+                "name": "Klinik Kimia Farma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6032083, -6.9072528
+                ]
+            },
+            "id": "node/11990122200"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12065809973",
+                "addr:city": "Bandung",
+                "addr:district": "Kiaracondong",
+                "addr:housenumber": "517",
+                "addr:postcode": "40285",
+                "addr:province": "Jawa Barat",
+                "addr:street": "Jl. Gatot Subroto",
+                "addr:subdistrict": "Sukapura",
+                "amenity": "hospital",
+                "email": "humas@rsupindad.com",
+                "emergency": "no",
+                "healthcare": "hospital",
+                "healthcare:speciality": "general;dentist;blood_check",
+                "name": "Rumah Sakit Umum Pindad Bandung",
+                "operator": "humas@rsupindad.com",
+                "operator:type": "public"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6467896, -6.939894
+                ]
+            },
+            "id": "node/12065809973"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12185696095",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Poskesdes Desa Tarumajaya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.663898, -7.2043488
+                ]
+            },
+            "id": "node/12185696095"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12192080701",
+                "amenity": "clinic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6703973, -7.1916234
+                ]
+            },
+            "id": "node/12192080701"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12192082301",
+                "amenity": "doctors"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6700191, -7.1925294
+                ]
+            },
+            "id": "node/12192082301"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12192153201",
+                "addr:street": "Jalan Ciparay - Kertasari",
+                "amenity": "puskesmas",
+                "name": "Puskesmas Kertasari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6752961, -7.1937749
+                ]
+            },
+            "id": "node/12192153201"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12192153902",
+                "amenity": "clinic",
+                "name": "Posyandu Lestari"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.678277, -7.1918356
+                ]
+            },
+            "id": "node/12192153902"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12192185001",
+                "addr:street": "Jalan Ciparay - Kertasari",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Posyandu Melati RW 04",
+                "operator": "Posyandu",
+                "operator:wikidata": "Q12506263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6811781, -7.1866531
+                ]
+            },
+            "id": "node/12192185001"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12192185101",
+                "addr:street": "Jalan Ciparay - Kertasari",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Posyandu Kuntum",
+                "operator": "Posyandu",
+                "operator:wikidata": "Q12506263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6818688, -7.1866368
+                ]
+            },
+            "id": "node/12192185101"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12197151496",
+                "amenity": "clinic",
+                "healthcare": "clinic",
+                "name": "Posyandu",
+                "operator:wikidata": "Q12506263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6735017, -7.2127183
+                ]
+            },
+            "id": "node/12197151496"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12197163753",
+                "amenity": "doctors",
+                "fixme": "name"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6732569, -7.2122925
+                ]
+            },
+            "id": "node/12197163753"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12343906450",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "healthcare:speciality": "clinical_pathology",
+                "name": "Puskesmas Sukamanah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5905853, -7.2048585
+                ]
+            },
+            "id": "node/12343906450"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12477812056",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Edelweiss Hospital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6494291, -6.94367
+                ]
+            },
+            "id": "node/12477812056"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/12594994036",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "name": "Rumah Sakit Muhammadiyah Bandung Selatan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6800118, -7.0224752
+                ]
+            },
+            "id": "node/12594994036"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/13049492463",
+                "amenity": "puskesmas",
+                "healthcare": "puskesmas",
+                "name": "Puskesmas Pasirkaliki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5976838, -6.9005782
+                ]
+            },
+            "id": "node/13049492463"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/13152580570",
+                "amenity": "hospital",
+                "healthcare": "hospital",
+                "healthcare:speciality": "psychiatry",
+                "name": "Klinik Masagi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6011784, -6.9269276
+                ]
+            },
+            "id": "node/13152580570"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/13198471113",
+                "amenity": "clinic",
+                "name": "Poskesdes Cipanjalu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7321219, -6.862007
+                ]
+            },
+            "id": "node/13198471113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/13234055442",
+                "addr:city": "Kabupaten Bandung",
+                "addr:district": "Margahayu",
+                "addr:housename": "Klinik Medika Pratama",
+                "addr:housenumber": "76",
+                "addr:neighbourhood": "RT.08/RW.10",
+                "addr:postcode": "40226",
+                "addr:province": "Jawa Barat",
+                "addr:street": "Jalan Manglid",
+                "addr:subdistrict": "Margahayu Selatan",
+                "amenity": "clinic",
+                "check_date": "2025-10-28",
+                "contact:instagram": "klinik.medikapratama.manglid",
+                "contact:whatsapp": "+628112320927",
+                "healthcare": "clinic",
+                "healthcare:speciality": "general",
+                "name": "Klinik Medika Pratama Manglid",
+                "name:id": "Klinik Medika Pratama Manglid",
+                "opening_hours": "Mo-Su 07:00-13:00,15:30-21:00",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "toilets": "yes",
+                "wheelchair": "designated"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5691746, -6.9696733
+                ]
+            },
+            "id": "node/13234055442"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/13251153526",
+                "addr:city": "Kabupaten Bandung",
+                "addr:district": "Margaasih",
+                "addr:housename": "Allive Clinic | Klinik Pratama Allive",
+                "addr:housenumber": "17",
+                "addr:postcode": "40218",
+                "addr:province": "Jawa Barat",
+                "addr:street": "Jalan Pinewood Soho 17 Taman Kopo Indah V",
+                "addr:subdistrict": "Rahayu",
+                "addr:unit": "Soho, Taman Kopo Indah V",
+                "amenity": "clinic",
+                "check_date": "2025-10-29",
+                "contact:facebook": "people/Allive-Clinic/61550783168001",
+                "contact:instagram": "allive.clinic",
+                "contact:threads": "allive.clinic",
+                "contact:tiktok": "allive.clinic",
+                "contact:whatsapp": "+6285195888885",
+                "contact:youtube": "alliveclinic",
+                "description": "Allive Clinic merupakan klinik yang menyediakan layanan perawatan wajah, tubuh dan vaksinasi, membantu merawat dan meningkatkan penampilan dan kesehatan anda. Ditangani oleh tim Dokter, Perawat, dan Apoteker yang professional dan tersertifikasi.",
+                "email": "allive.clinic@gmail.com",
+                "healthcare": "vaccination_centre",
+                "healthcare:speciality": "dermatology;dermatovenereology;vaccination",
+                "name": "Allive Clinic | Klinik Pratama Allive",
+                "opening_hours": "Mo-Sa 10:00-18:00; Su off",
+                "operator": "Allive Clinic;Immunicare by Biofarma",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "reservation": "yes",
+                "smoking": "no",
+                "surveillance:type": "guard;camera",
+                "toilets": "yes",
+                "vaccination": "influenza;hepatitis;typhoid;dengue;varicella;measles;mumps;rubella;poliomyelitis;pneumonia;HPV;meningococcal;Tdap;rabies;japaneseencephalitis;yellowfever=yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.553343, -6.9623685
+                ]
+            },
+            "id": "node/13251153526"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/13270215620",
+                "addr:block_number": "Blok 55A",
+                "addr:country": "ID",
+                "addr:county": "Bandung",
+                "addr:district": "Margahayu",
+                "addr:housenumber": "No.6",
+                "addr:postcode": "40227",
+                "addr:province": "Jawa Barat",
+                "addr:street": "Jalan Kopo Permai I",
+                "addr:village": "Sukamenak",
+                "air_conditioning": "yes",
+                "amenity": "clinic",
+                "baby_feeding": "room",
+                "branch": "Kopo",
+                "brand": "Prodia",
+                "brand:wikidata": "Q96100576",
+                "check_date": "2025-11-11",
+                "contact:facebook": "prodia.id",
+                "contact:instagram": "prodia_lab",
+                "contact:linkedin": "pt-prodia-widyahusada-tbk",
+                "contact:threads": "prodia_lab",
+                "contact:tiktok": "prodia_lab",
+                "contact:twitter": "prodia_lab",
+                "contact:whatsapp": "+628551500830",
+                "contact:youtube": "prodia_lab",
+                "email": "info@prodia.co.id",
+                "healthcare": "laboratory",
+                "healthcare:speciality": "clinical_pathology;blood_check",
+                "image": "https://lh3.googleusercontent.com/p/AF1QipO_pk11ABuE8CmXY3AODhRQ-PNIw9Wn_PR2psmD=w532-h240-k-no",
+                "level": "0",
+                "mapillary": "1134468981655226",
+                "name": "Laboratorium Prodia Bandung Kopo",
+                "opening_hours": "Mo-Fr 06:00-19:00; Sa 06:00-15:00; Su off",
+                "operator": "PT Prodia Widyahusada Tbk",
+                "operator:type": "private",
+                "payment:cash": "yes",
+                "payment:contactless": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
+                "payment:gpn_qris": "yes",
+                "payment:nfc": "yes",
+                "phone": "+62 21 1500830",
+                "room": "toilets",
+                "toilets:access": "customers",
+                "toilets:wheelchair": "yes",
+                "website": "https://www.prodia.co.id",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5823251, -6.9632828
+                ]
+            },
+            "id": "node/13270215620"
+        }
+    ]
+}
